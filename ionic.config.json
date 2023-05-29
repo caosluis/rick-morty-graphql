@@ -1,0 +1,7 @@
+{
+  "name": "rick&morty@graphql",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
